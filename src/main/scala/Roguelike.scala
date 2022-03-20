@@ -7,7 +7,6 @@ class Roguelike extends PApplet {
   override def setup(): Unit = {}
   override def settings(): Unit = {
     size(1024, 1024)
-    noSmooth()
   }
   override def draw(): Unit = {
 
