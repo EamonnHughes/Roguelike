@@ -1,1 +1,1 @@
-case class Player (loca)
+case class Player()

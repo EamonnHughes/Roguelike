@@ -6,7 +6,8 @@ import processing.opengl.PGraphicsOpenGL
 class Roguelike extends PApplet {
   override def setup(): Unit = {}
   override def settings(): Unit = {
-    size(1024, 1024)
+
+    size(1200, 1200)
   }
   override def draw(): Unit = {
 
