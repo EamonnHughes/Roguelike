@@ -4,5 +4,7 @@ ThisBuild / scalaVersion := "2.13.8"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Roguelike"
+    name := "RogueLike"
   )
+
+libraryDependencies += "org.processing" % "core" % "3.3.6"
