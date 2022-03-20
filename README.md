@@ -1,2 +1,2 @@
 # Roguelike
-LOLZ! PSYCHE! HAHAHAHAHA!
+a roguelike video game
