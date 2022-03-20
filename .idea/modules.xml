@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Roguelike.iml" filepath="$PROJECT_DIR$/.idea/modules/Roguelike.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Roguelike-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Roguelike-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RogueLike.iml" filepath="$PROJECT_DIR$/.idea/modules/RogueLike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RogueLike-build.iml" filepath="$PROJECT_DIR$/.idea/modules/RogueLike-build.iml" />
     </modules>
   </component>
 </project>
